@@ -8,11 +8,11 @@ from pprint import pprint
 # users_wrong_password = []
 # girls_drivers = []
 # best_occupation = {}
-max_salary = 0
-vip_user = ''
-max_sum = 0
+# max_salary = 0
+# vip_user = ''
+# max_sum = 0
 
-for user in users:
+# for user in users:
 #     if user['password'].isdigit():
 #         users_wrong_password.append({'name': user['name'] , 'mail': user['mail']})
 
@@ -99,40 +99,3 @@ for user in users:
 #             vip_user = user['name']
 
 # print(vip_user)
-
-        
-        
-        
-
-        
-
-              
-
-
-
-
-        
-
-
-           
-
-
-
-
-            
-            
-            
-                      
-            
-
-                                         
-
-            
-
-
-          
-      
-
-        
-
-
